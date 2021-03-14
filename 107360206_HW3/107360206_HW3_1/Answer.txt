@@ -1,0 +1,5 @@
+Answer 1 : One view or one view group
+
+Answer 2 : android:orientation="horizontal"
+
+Answer 3 : android:layout_width="match_parent"
