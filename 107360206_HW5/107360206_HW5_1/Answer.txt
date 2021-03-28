@@ -1,0 +1,5 @@
+Answer 1 : Tests that are compiled and run entirely on your local machine with the Java Virtual Machine (JVM).
+
+Answer 2 : com.example.android.SimpleCalcTest (test)
+
+Answer 3 : @Test

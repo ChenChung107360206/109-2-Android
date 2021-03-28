@@ -1,0 +1,5 @@
+Answer 1 : Choose New > Image Asset and then choose the image file.
+
+Answer 2 : Add the android:onClick attribute to the ImageView in the layout and use it to call the click handler in the Activity.
+
+Answer 3 : The click handler method must be public, return void, and define a View as its only parameter.
