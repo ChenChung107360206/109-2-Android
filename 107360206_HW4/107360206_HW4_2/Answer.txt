@@ -1,0 +1,5 @@
+Answer 1 : new Intent(String action)
+
+Answer 2 : All of the above.
+
+Answer 3 : Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
