@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Chocolate_syrup_text" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Sprinkles_text" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Crushed_nuts_text" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Cherries_text" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Orio_cookie_crumbles_text" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="Submit"
+        android:text="@string/show_toast" />
+</LinearLayout>
