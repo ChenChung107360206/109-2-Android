@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">107360206_HW7_2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="Recipes1"><big>家常炒肉絲\n</big>超快速料理！好吃又簡單，全聯採買，快速上菜～</string>
+    <string name="Recipes1_details">預備食材(2人份)\n
+                                    配料:\n
+                                    洋蔥半顆\n
+                                    任意菇菇半包(美姬菇)\n
+                                    蔥1根\n
+                                    蒜頭2顆\n
+                                    \n
+                                    肉類:\n
+                                    豬肉絲/肉片一盤(全聯)\n
+                                    太白粉1調羹\n
+                                    醬油膏1調羹\n
+                                    米酒1調羹\n
+                                    白胡椒粉適量\n
+                                    醬油1調羹\n
+                                    香油適量\n
+                                    \n
+                                    步驟\n
+                                    1.將肉類調入醬油與米酒等液體並抓勻，接著加入太白粉抓勻備用\n
+                                    2.將配料切絲及切塊、切蔥花\n
+                                    3.熱油鍋，先下洋蔥與蒜頭，以中火炒至軟化加入菇類\n
+                                    4.再加入肉絲/肉片，以中火耐心翻炒肉片至熟透，撒入蔥花拌勻即可</string>
+
+    <string name="Recipes2"><big>香煎大比目魚\n</big>新鮮無比的大比目魚是晚餐的好味道，簡單調味再香煎就可以嗑上一碗飯了。\n
+                                 大比目魚（扁鱈）最好跟熟悉的魚販購買，這樣可以降低多餘的調味，只吃到原始鮮味。</string>
+    <string name="Recipes2_details">預備食材(4人份)\n
+                                    大比目魚 半斤\n
+                                    鹽 適量\n
+                                    地瓜粉 適量\n
+                                    鹹酥雞鹽 少許\n
+                                    調理油\n
+                                    步驟\n
+                                    \n
+                                    1.鱈魚洗淨，雙面抹鹽稍微醃一下。\n
+                                    2.將魚身擦乾，雙面灑上適量地瓜粉。\n
+                                    3.平底鍋內放少許油，將鱈魚放入後先開小火，等鍋開始熱後轉中小火慢煎。\n
+                                    4.底部煎好後翻面續煎，由於鱈魚油脂較多，所以會不斷跑出魚油，將增加的油用鏟子撥到四周魚皮。\n
+                                    5.煎好後，瀝乾油份取出裝盤，在旁邊灑上少許鹹酥雞鹽，不夠鹹時再沾取即可。</string>
+
+    <string name="title_activity_recipes1">Recipes1</string>
+    <string name="title_activity_recipes2">Recipes2</string>
+
+</resources>
